@@ -18,13 +18,13 @@
 
    - [Click to Output](https://cdn.discordapp.com/attachments/1063003446715879507/1076348550142758974/No_3_Youtube_Support.png)
 
-4. Website Name: [OnePlus](https://www.oneplus.in/support)(done)
+4. Website Name: [OnePlus](https://www.oneplus.in/support)
 
    > **Change the contact number**
 
    - [Click to Output](https://cdn.discordapp.com/attachments/1063003446715879507/1076350136046854224/No_4_Oneplus.png)
 
-5. Website Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)(done)
+5. Website Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
    > **Target the main div of card and change the Button text to Check out**
 
